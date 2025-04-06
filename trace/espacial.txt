@@ -1,0 +1,29 @@
+2 0 // busca de instrução no endereço 0  
+2 1 // busca de instrução no endereço 1  
+2 2 // busca de instrução no endereço 2  
+2 3 // busca de instrução no endereço 3  
+2 4 // busca de instrução no endereço 4  
+2 3 // busca de instrução no endereço 3 (repetição dentro do bloco)  
+2 5 // busca de instrução no endereço 5  
+2 6 // busca de instrução no endereço 6  
+2 7 // busca de instrução no endereço 7  
+2 8 // busca de instrução no endereço 8  
+2 7 // busca de instrução no endereço 7 (repetição dentro do bloco)  
+2 9 // busca de instrução no endereço 9  
+2 A // busca de instrução no endereço A  
+2 B // busca de instrução no endereço B  
+2 A // busca de instrução no endereço A (repetição dentro do bloco)  
+2 C // busca de instrução no endereço C  
+2 D // busca de instrução no endereço D  
+2 E // busca de instrução no endereço E  
+2 F // busca de instrução no endereço F  
+2 E // busca de instrução no endereço E (repetição dentro do bloco)  
+2 0 // busca de instrução no endereço 0 (reinício do ciclo)  
+2 1 // busca de instrução no endereço 1  
+2 2 // busca de instrução no endereço 2  
+2 3 // busca de instrução no endereço 3  
+2 4 // busca de instrução no endereço 4  
+2 5 // busca de instrução no endereço 5  
+2 6 // busca de instrução no endereço 6  
+2 7 // busca de instrução no endereço 7  
+2 8 // busca de instrução no endereço 8  
